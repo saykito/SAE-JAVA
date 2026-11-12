@@ -1,0 +1,9 @@
+# Fichiers compilés
+target/
+bin/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
